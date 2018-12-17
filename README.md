@@ -119,6 +119,7 @@ Polkadot
 
 ## Parsec
 ## Loom Network
+**Intro:** Loom Network’s DPoS sidechains allow for truly scalable blockchain games and DApps with the security of Ethereum mainnet. Like EOS on Ethereum.
 [website](https://loomx.io/)
 
 [Github](https://github.com/loomnetwork)
