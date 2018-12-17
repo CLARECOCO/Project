@@ -119,6 +119,8 @@ Polkadot
 
 ## Parsec
 ## Loom Network
+[website](https://loomx.io/)
+
 ## POA Network
 ## Plasma
 ## SKALE
