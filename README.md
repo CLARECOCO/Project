@@ -40,7 +40,7 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 
 
 ## Sidechains
- [Loom Network](https://github.com/Awesome-Layer-2/Project#loom-network)
+ [Loom Network](#loom-network)
  
  [POA Network](https://github.com/Awesome-Layer-2/Project#poa-network)
  
